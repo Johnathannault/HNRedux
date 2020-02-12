@@ -1,0 +1,37 @@
+body {
+    padding-top: 80px;
+}
+
+header {
+    width: 100%;
+    color: white;
+    background-color: #888;
+    position: fixed;
+    padding: 0 20%;
+    top: 0;
+    left: 0;
+}
+
+header a {
+    color: black;
+    text-decoration: none;
+}
+
+#root {
+    margin: 0 20%;
+}
+
+.story-panel {
+    background-color: #aaa;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    padding: 5px 10px;
+}
+
+.story-title {
+    color: black;
+}
+
+.story-date {
+    float: right;
+}
